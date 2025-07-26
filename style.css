@@ -921,7 +921,7 @@ body {
   100% { transform: translate(0, 0) rotate(360deg); }
 }
 
-.green-checkmarks {
+/* .green-checkmarks {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -935,7 +935,7 @@ body {
 @keyframes checkmarkFloat {
   0%, 100% { opacity: 0.05; transform: translateY(0px); }
   50% { opacity: 0.15; transform: translateY(-10px); }
-}
+} */
 
 .color-waves {
   position: absolute;
